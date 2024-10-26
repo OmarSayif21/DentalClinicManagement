@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODEPROJECTS\\ClinicManagement-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|d:\\codeprojects\\clinicmanagement-master\\clinicmanagement\\controllers\\api\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|solutionrelative:clinicmanagement\\controllers\\api\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|D:\\CODEPROJECTS\\ClinicManagement-master\\clinicmanagement\\views\\shared\\_adminnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|solutionrelative:clinicmanagement\\views\\shared\\_adminnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|D:\\CODEPROJECTS\\ClinicManagement-master\\clinicmanagement\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|solutionrelative:clinicmanagement\\views\\patients\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|D:\\CODEPROJECTS\\ClinicManagement-master\\clinicmanagement\\views\\patients\\getpatientbyuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|solutionrelative:clinicmanagement\\views\\patients\\getpatientbyuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|D:\\CODEPROJECTS\\ClinicManagement-master\\clinicmanagement\\core\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|solutionrelative:clinicmanagement\\core\\repositories\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|D:\\CODEPROJECTS\\ClinicManagement-master\\clinicmanagement\\persistence\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|solutionrelative:clinicmanagement\\persistence\\repositories\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|D:\\CODEPROJECTS\\ClinicManagement-master\\clinicmanagement\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|solutionrelative:clinicmanagement\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|D:\\CODEPROJECTS\\ClinicManagement-master\\clinicmanagement\\core\\viewmodel\\patientformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|solutionrelative:clinicmanagement\\core\\viewmodel\\patientformviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|D:\\CODEPROJECTS\\ClinicManagement-master\\clinicmanagement\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|solutionrelative:clinicmanagement\\persistence\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|D:\\CODEPROJECTS\\ClinicManagement-master\\clinicmanagement\\views\\shared\\_patientnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{27C1D62D-33DD-4615-AA01-EAED607B3178}|ClinicManagement\\ClinicManagement.csproj|solutionrelative:clinicmanagement\\views\\shared\\_patientnav.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_PatientNav.cshtml",
+              "DocumentMoniker": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Views\\Shared\\_PatientNav.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagement\\Views\\Shared\\_PatientNav.cshtml",
+              "ToolTip": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Views\\Shared\\_PatientNav.cshtml",
+              "RelativeToolTip": "ClinicManagement\\Views\\Shared\\_PatientNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T10:36:32.006Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Views\\Patients\\Details.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagement\\Views\\Patients\\Details.cshtml",
+              "ToolTip": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Views\\Patients\\Details.cshtml",
+              "RelativeToolTip": "ClinicManagement\\Views\\Patients\\Details.cshtml",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAALAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T12:38:41.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminNav.cshtml",
+              "DocumentMoniker": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Views\\Shared\\_AdminNav.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagement\\Views\\Shared\\_AdminNav.cshtml",
+              "ToolTip": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Views\\Shared\\_AdminNav.cshtml",
+              "RelativeToolTip": "ClinicManagement\\Views\\Shared\\_AdminNav.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-26T11:52:13.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Controllers\\Api\\PatientsController.cs",
+              "RelativeDocumentMoniker": "ClinicManagement\\Controllers\\Api\\PatientsController.cs",
+              "ToolTip": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Controllers\\Api\\PatientsController.cs",
+              "RelativeToolTip": "ClinicManagement\\Controllers\\Api\\PatientsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T11:44:58.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Core\\Repositories\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "ClinicManagement\\Core\\Repositories\\IPatientRepository.cs",
+              "ToolTip": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Core\\Repositories\\IPatientRepository.cs",
+              "RelativeToolTip": "ClinicManagement\\Core\\Repositories\\IPatientRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:50:10.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetPatientByUser.cshtml",
+              "DocumentMoniker": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Views\\Patients\\GetPatientByUser.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagement\\Views\\Patients\\GetPatientByUser.cshtml",
+              "ToolTip": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Views\\Patients\\GetPatientByUser.cshtml",
+              "RelativeToolTip": "ClinicManagement\\Views\\Patients\\GetPatientByUser.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAC0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T13:02:52.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "ClinicManagement\\Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "ClinicManagement\\Controllers\\PatientsController.cs",
+              "ViewState": "AQIAALgAAAAAAAAAAAAcwOgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:56:32.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientFormViewModel.cs",
+              "DocumentMoniker": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Core\\ViewModel\\PatientFormViewModel.cs",
+              "RelativeDocumentMoniker": "ClinicManagement\\Core\\ViewModel\\PatientFormViewModel.cs",
+              "ToolTip": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Core\\ViewModel\\PatientFormViewModel.cs",
+              "RelativeToolTip": "ClinicManagement\\Core\\ViewModel\\PatientFormViewModel.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:56:27.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Persistence\\Repositories\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "ClinicManagement\\Persistence\\Repositories\\PatientRepository.cs",
+              "ToolTip": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Persistence\\Repositories\\PatientRepository.cs",
+              "RelativeToolTip": "ClinicManagement\\Persistence\\Repositories\\PatientRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:08:31.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Persistence\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "ClinicManagement\\Persistence\\UnitOfWork.cs",
+              "ToolTip": "D:\\CODEPROJECTS\\ClinicManagement-master\\ClinicManagement\\Persistence\\UnitOfWork.cs",
+              "RelativeToolTip": "ClinicManagement\\Persistence\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T15:05:25.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

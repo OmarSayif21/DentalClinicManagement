@@ -1,0 +1,221 @@
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\ApplicationInsights.config
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\csc.exe
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\vbc.exe
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\VBCSCompiler.exe
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\ClinicManagement.dll.config
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\ClinicManagement.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\ClinicManagement.pdb
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Antlr3.Runtime.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\AutoMapper.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Castle.Core.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\EntityFramework.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\EntityFramework.SqlServer.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.Web.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.ApplicationInsights.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Newtonsoft.Json.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Extensions.Conventions.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.Common.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.Mvc.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.WebApi.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Owin.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Net.Http.Formatting.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Helpers.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Http.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Http.WebHost.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Mvc.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Optimization.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Razor.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.Deployment.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.Razor.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\WebActivatorEx.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\WebGrease.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\AutoMapper.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.Web.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.ApplicationInsights.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Extensions.Conventions.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.Common.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.Mvc.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.WebApi.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Helpers.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Mvc.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Optimization.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Razor.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.Deployment.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.Razor.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Antlr3.Runtime.pdb
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Newtonsoft.Json.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Net.Http.Formatting.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Http.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Http.WebHost.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\EntityFramework.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\EntityFramework.SqlServer.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.csproj.AssemblyReference.cache
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.csproj.CoreCompileInputs.cache
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicMa.D65B9BD0.Up2Date
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.pdb
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.Migrations.UpdateDatabaseSchema.resources
+D:\CODE PROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.csproj.GenerateResource.cache
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\ApplicationInsights.config
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\csc.exe
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\System.Collections.Immutable.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\vbc.exe
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\VBCSCompiler.exe
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\roslyn\VBCSCompiler.exe.config
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\ClinicManagement.dll.config
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\ClinicManagement.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\ClinicManagement.pdb
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Antlr3.Runtime.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\AutoMapper.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Castle.Core.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\EntityFramework.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\EntityFramework.SqlServer.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.DependencyCollector.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.Web.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.WindowsServer.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.ApplicationInsights.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Google.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Web.Infrastructure.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Newtonsoft.Json.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Extensions.Conventions.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.Common.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.Mvc.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.WebApi.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Owin.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Net.Http.Formatting.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Helpers.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Http.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Http.WebHost.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Mvc.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Optimization.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Razor.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.Deployment.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.Razor.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\WebActivatorEx.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\WebGrease.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\AutoMapper.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\EntityFramework.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\EntityFramework.SqlServer.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.DependencyCollector.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.Web.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AI.WindowsServer.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.ApplicationInsights.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Extensions.Conventions.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.Common.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.Mvc.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Ninject.Web.WebApi.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Helpers.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Mvc.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Optimization.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Razor.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.Deployment.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.WebPages.Razor.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Antlr3.Runtime.pdb
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Newtonsoft.Json.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Net.Http.Formatting.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Http.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\System.Web.Http.WebHost.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Google.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.csproj.AssemblyReference.cache
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.Migrations.UpdateDatabaseSchema.resources
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.csproj.GenerateResource.cache
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.csproj.CoreCompileInputs.cache
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicMa.D65B9BD0.Up2Date
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.dll
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.pdb
+D:\CODEPROJECTS\ClinicManagement-master\ClinicManagement\obj\Debug\ClinicManagement.Migrations.UpdateDatabase.resources
