@@ -1,0 +1,70 @@
+﻿
+@{
+    ViewBag.Title = "DentalRecord";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    var conditions = new List<string> { "D", "M", "F", "I", "RF", "MO", "Im", "○", "●" };
+    var restorations = new List<string> { "J", "A", "AB", "P", "In", "Fx", "S", "Rm", "○", "●" };
+    var surgeries = new List<string> { "X", "XO", "/", "Cm", "Sp", "○", "●" };
+}
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>Dental Chart</title>
+    </head>
+    <body>
+        <form>
+            <h2>Temporary Teeth</h2>
+            <table>
+                <tr>
+                    <td>Status Right</td>
+                    @for (int i = 55; i <= 65; i++)
+                    {
+                        <td>
+                            <select name="tooth_@i">
+                                <option value="">Select</option>
+                                @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                                {
+                                    <option value="@option">@option</option>
+                                }
+                            </select>
+                        </td>
+                    }
+                    <td>Status Left</td>
+                </tr>
+            </table>
+
+            <h2>Permanent Teeth</h2>
+            <table>
+                <tr>
+                    <td>Status Right</td>
+                    @for (int i = 18; i >= 11; i--)
+                    {
+                        <td>
+                            <select name="tooth_@i">
+                                <option value="">Select</option>
+                                @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                                {
+                                    <option value="@option">@option</option>
+                                }
+                            </select>
+                        </td>
+                    }
+                    @for (int i = 21; i <= 28; i++)
+                    {
+                        <td>
+                            <select name="tooth_@i">
+                                <option value="">Select</option>
+                                @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                                {
+                                    <option value="@option">@option</option>
+                                }
+                            </select>
+                        </td>
+                    }
+                    <td>Status Left</td>
+                </tr>
+            </table>
+        </form>
+    </body>
+</html>

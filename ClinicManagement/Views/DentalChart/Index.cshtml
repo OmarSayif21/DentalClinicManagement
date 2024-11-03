@@ -1,0 +1,195 @@
+﻿@{
+    ViewBag.Title = "DentalRecord";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var conditions = new List<string> { "D", "M", "F", "I", "RF", "MO", "Im" };
+    var restorations = new List<string> { "J", "A", "AB", "P", "In", "Fx", "S", "Rm" };
+    var surgeries = new List<string> { "X", "XO", "/", "Cm", "Sp" };
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dental Chart</title>
+    <link rel="stylesheet" href="~/Content/css/dentalchart.css" />
+</head>
+<body>
+    <form>
+        <!-- Temporary Teeth (Top) -->
+        <h2>Temporary Teeth</h2>
+        <div class="dental-row">
+            <span>STATUS RIGHT</span>
+            @foreach (var i in new int[] { 55, 54, 53, 52, 51, 61, 62, 63, 64, 65 })
+            {
+                <div class="tooth-box">
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <div class="tooth-circle">@i</div>
+                </div>
+            }
+            <span>STATUS LEFT</span>
+        </div>
+        <!-- Permanent Teeth -->
+        <h2>Temporary Teeth</h2>
+        <div class="dental-row">
+            <span>Status Right</span>
+            @for (int i = 18; i >= 11; i--)
+            {
+                <div class="tooth-box">
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <div class="tooth-circle">@i</div>
+                </div>
+            }
+            <div class="separator"></div>
+            @for (int i = 21; i <= 28; i++)
+            {
+                <div class="tooth-box">
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <div class="tooth-circle">@i</div>
+                </div>
+            }
+            <span>Status Left</span>
+        </div>
+
+        <h2>Temporary Teeth</h2>
+        <div class="dental-row">
+            <span>Status Right</span>
+            @for (int i = 48; i >= 41; i--)
+            {
+                <div class="tooth-box">
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <div class="tooth-circle">@i</div>
+                </div>
+            }
+            <div class="separator"></div>
+            @for (int i = 31; i <= 38; i++)
+            {
+                <div class="tooth-box">
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <div class="tooth-circle">@i</div>
+                </div>
+            }
+            <span>Status Left</span>
+        </div>
+
+        <!-- Temporary Teeth (Bottom) -->
+        <h2>Temporary Teeth</h2>
+        <div class="dental-row">
+            <span>Status Right</span>
+            @for (int i = 85; i >= 81; i--)
+            {
+                <div class="tooth-box">
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <div class="tooth-circle">@i</div>
+                </div>
+            }
+            <div class="separator"></div>
+            @for (int i = 71; i <= 75; i++)
+            {
+                <div class="tooth-box">
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <select name="tooth_@i">
+                        <option value="">Select</option>
+                        @foreach (var option in conditions.Concat(restorations).Concat(surgeries))
+                        {
+                            <option value="@option">@option</option>
+                        }
+                    </select>
+                    <div class="tooth-circle">@i</div>
+                </div>
+            }
+            <span>Status Left</span>
+        </div>
+
+
+        <!-- Legend Section -->
+        <div class="legend">
+            <div><strong>Condition</strong> D - Decayed (Caries Indicated for Filling) M - Missing due to Caries F - Filled I - Caries Indicated for Extraction RF - Root Fragment MO - Missing due to Other Causes Im - Impacted Tooth</div>
+            <div><strong>Restorations & Prosthetics</strong> J - Jacket Crown A - Amalgam Filling AB - Abutment P - Pontic In - Inlay Fx - Fixed Cure Composite S - Sealants Rm - Removable Denture</div>
+            <div><strong>Surgery</strong> X - Extraction due to Caries XO - Extraction due to Other Causes / - Present Teeth Cm - Congenitally Missing Sp - Supernumerary</div>
+        </div>
+    </form>
+</body>
+</html>
